@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Solder AOC
+  m_Controller: {fileID: 9100000, guid: e9508c663367dec40b25f5797b947808, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 6720303635017113406, guid: 51c129a277f1a7541a82d393a337bea3, type: 3}
+    m_OverrideClip: {fileID: 6720303635017113406, guid: 05841b2b706d0bd4a881373c2be38dee, type: 3}
+  - m_OriginalClip: {fileID: -4630339522487117836, guid: 51c129a277f1a7541a82d393a337bea3, type: 3}
+    m_OverrideClip: {fileID: -4630339522487117836, guid: 05841b2b706d0bd4a881373c2be38dee, type: 3}
+  - m_OriginalClip: {fileID: 8017390324079358001, guid: 51c129a277f1a7541a82d393a337bea3, type: 3}
+    m_OverrideClip: {fileID: 2963219463598164401, guid: 05841b2b706d0bd4a881373c2be38dee, type: 3}
+  - m_OriginalClip: {fileID: -3100369314251171874, guid: 51c129a277f1a7541a82d393a337bea3, type: 3}
+    m_OverrideClip: {fileID: -3100369314251171874, guid: 05841b2b706d0bd4a881373c2be38dee, type: 3}
+  - m_OriginalClip: {fileID: 2667949614841947897, guid: 51c129a277f1a7541a82d393a337bea3, type: 3}
+    m_OverrideClip: {fileID: 2667949614841947897, guid: 05841b2b706d0bd4a881373c2be38dee, type: 3}
